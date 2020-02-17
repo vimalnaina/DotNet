@@ -6,7 +6,7 @@ namespace Practical_5
         static void Main(string[] args)
         {
             MyClass myclass = new MyClass();
-            String infix = "a+b*(c-d)";
+            String infix = "(x-y)*(w+z)";
             String postfix;
             myclass.Infixtopostfix(ref infix, out postfix);
             Console.WriteLine("infix string : " + infix);
