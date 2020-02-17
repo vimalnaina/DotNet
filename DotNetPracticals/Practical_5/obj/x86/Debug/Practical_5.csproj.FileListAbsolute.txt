@@ -1,0 +1,4 @@
+E:\17CE018\DotNetPracticals\Practical_5\bin\Debug\Practical_5.exe
+E:\17CE018\DotNetPracticals\Practical_5\bin\Debug\Practical_5.pdb
+E:\17CE018\DotNetPracticals\Practical_5\obj\x86\Debug\Practical_5.exe
+E:\17CE018\DotNetPracticals\Practical_5\obj\x86\Debug\Practical_5.pdb
