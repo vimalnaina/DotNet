@@ -1,0 +1,8 @@
+E:\DotNet\dotnetPracticals\Practical_8\obj\Debug\Practical_8.csprojAssemblyReference.cache
+E:\DotNet\dotnetPracticals\Practical_8\obj\Debug\Practical_8.Properties.Resources.resources
+E:\DotNet\dotnetPracticals\Practical_8\obj\Debug\Practical_8.csproj.GenerateResource.cache
+E:\DotNet\dotnetPracticals\Practical_8\bin\Debug\Practical_8.exe.config
+E:\DotNet\dotnetPracticals\Practical_8\bin\Debug\Practical_8.exe
+E:\DotNet\dotnetPracticals\Practical_8\bin\Debug\Practical_8.pdb
+E:\DotNet\dotnetPracticals\Practical_8\obj\Debug\Practical_8.exe
+E:\DotNet\dotnetPracticals\Practical_8\obj\Debug\Practical_8.pdb

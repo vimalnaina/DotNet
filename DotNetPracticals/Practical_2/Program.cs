@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Practical_2
 {
@@ -9,49 +10,67 @@ namespace Practical_2
     {
         static void Main(string[] args)
         {
-            pattern1();
-            pattern2();
-            pattern3();
-            Console.Read();
+            Console.WriteLine("----First Pattern----");
+            Pattern1();
+            Console.WriteLine("----Second Pattern----");
+            Pattern2();
+            Console.WriteLine("----Third Pattern----");
+            Pattern3();
+            Console.WriteLine("----Fourth Pattern----");
+            Pattern4();
+            Console.ReadKey();
         }
-
-        private static void pattern3()
+        static void Pattern1()
         {
-            Console.WriteLine("\nPattern:3\n");
-            for (int i = 5; i > 0; i--)
+            int i, j;
+            for (i = 1; i <= 5; i++)
             {
-                for (int j = 0; j < 5; j++) 
-                {
-                    Console.Write(i);
-                }
-                Console.WriteLine();
-            }
-        }
-
-        private static void pattern2()
-        {
-            Console.WriteLine("\nPattern:2\n");
-            for (int i = 0; i < 5; i++)
-            {
-                for (int j = i; j < 5; j++)
+                for (j = 1; j <= 5; j++)
                 {
                     Console.Write("*");
                 }
                 Console.WriteLine();
             }
         }
-
-        private static void pattern1()
+        static void Pattern2()
         {
-            Console.WriteLine("Pattern:1\n");
-            for (int i = 0; i < 5; i++)
+            int i, j;
+            for (i = 1; i <= 5; i++)
             {
-                for (int j = 0; j < 5; j++)
+                for (j = 1; j <= i; j++)
                 {
                     Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+        }
+        static void Pattern3()
+        {
+            int i, j;
+            for (i = 5; i >= 1; i--)
+        {
+            for (j = 1; j <= i; j++)
+            {
+                Console.Write("*");
+            }
+            Console.WriteLine();
+        }
+    }
+        static void Pattern4()
+        {
+            int i, j, k;
+            for (i = 1; i <= 5; i++)
+            {
+                for (j = 5 - i; j > 0; j--)
+                {
+                    Console.Write(" ");
+                }
+                for (k = 1; k <= i; k++)
+                {
+                    Console.Write("* ");
                 }
                 Console.WriteLine();
             }
         }
     }
-}
+ }

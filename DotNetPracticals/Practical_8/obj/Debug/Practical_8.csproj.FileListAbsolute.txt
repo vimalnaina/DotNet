@@ -1,0 +1,6 @@
+E:\DotNet\dotnetPracticals\Practical_7\bin\Debug\Practical_7.exe.config
+E:\DotNet\dotnetPracticals\Practical_7\bin\Debug\Practical_7.exe
+E:\DotNet\dotnetPracticals\Practical_7\bin\Debug\Practical_7.pdb
+E:\DotNet\dotnetPracticals\Practical_7\obj\Debug\Practical_7.exe
+E:\DotNet\dotnetPracticals\Practical_7\obj\Debug\Practical_7.pdb
+E:\DotNet\dotnetPracticals\Practical_7\obj\Debug\Practical_7.csprojAssemblyReference.cache
