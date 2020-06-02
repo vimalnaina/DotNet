@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\Practicals\Practical 9\obj\Debug\Practical 9.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Practicals\Practical 9\obj\Debug\Practical_9.Properties.Resources.resources
+C:\Users\Dell\source\repos\Practicals\Practical 9\obj\Debug\Practical 9.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Practicals\Practical 9\bin\Debug\Practical 9.exe.config
+C:\Users\Dell\source\repos\Practicals\Practical 9\bin\Debug\Practical 9.exe
+C:\Users\Dell\source\repos\Practicals\Practical 9\bin\Debug\Practical 9.pdb
+C:\Users\Dell\source\repos\Practicals\Practical 9\obj\Debug\Practical 9.exe
+C:\Users\Dell\source\repos\Practicals\Practical 9\obj\Debug\Practical 9.pdb

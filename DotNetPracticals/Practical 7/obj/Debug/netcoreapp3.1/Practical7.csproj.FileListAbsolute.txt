@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Practicals\Practical6\bin\Debug\netcoreapp3.1\Practical7.exe
+C:\Users\Dell\source\repos\Practicals\Practical6\bin\Debug\netcoreapp3.1\Practical7.deps.json
+C:\Users\Dell\source\repos\Practicals\Practical6\bin\Debug\netcoreapp3.1\Practical7.runtimeconfig.json
+C:\Users\Dell\source\repos\Practicals\Practical6\bin\Debug\netcoreapp3.1\Practical7.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Practicals\Practical6\bin\Debug\netcoreapp3.1\Practical7.dll
+C:\Users\Dell\source\repos\Practicals\Practical6\bin\Debug\netcoreapp3.1\Practical7.pdb
+C:\Users\Dell\source\repos\Practicals\Practical6\obj\Debug\netcoreapp3.1\Practical7.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Practicals\Practical6\obj\Debug\netcoreapp3.1\Practical7.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Practicals\Practical6\obj\Debug\netcoreapp3.1\Practical7.dll
+C:\Users\Dell\source\repos\Practicals\Practical6\obj\Debug\netcoreapp3.1\Practical7.pdb

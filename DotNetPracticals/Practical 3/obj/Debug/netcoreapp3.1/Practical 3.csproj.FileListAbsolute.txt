@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Practicals\Practical 3\bin\Debug\netcoreapp3.1\Practical 3.exe
+C:\Users\Dell\source\repos\Practicals\Practical 3\bin\Debug\netcoreapp3.1\Practical 3.deps.json
+C:\Users\Dell\source\repos\Practicals\Practical 3\bin\Debug\netcoreapp3.1\Practical 3.runtimeconfig.json
+C:\Users\Dell\source\repos\Practicals\Practical 3\bin\Debug\netcoreapp3.1\Practical 3.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Practicals\Practical 3\bin\Debug\netcoreapp3.1\Practical 3.dll
+C:\Users\Dell\source\repos\Practicals\Practical 3\bin\Debug\netcoreapp3.1\Practical 3.pdb
+C:\Users\Dell\source\repos\Practicals\Practical 3\obj\Debug\netcoreapp3.1\Practical 3.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Practicals\Practical 3\obj\Debug\netcoreapp3.1\Practical 3.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Practicals\Practical 3\obj\Debug\netcoreapp3.1\Practical 3.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Practicals\Practical 3\obj\Debug\netcoreapp3.1\Practical 3.dll
+C:\Users\Dell\source\repos\Practicals\Practical 3\obj\Debug\netcoreapp3.1\Practical 3.pdb

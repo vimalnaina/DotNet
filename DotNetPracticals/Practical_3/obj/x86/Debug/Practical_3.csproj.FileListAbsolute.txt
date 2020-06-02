@@ -1,4 +1,0 @@
-G:\17CE018\DotNetPracticals\Practical_3\bin\Debug\Practical_3.exe
-G:\17CE018\DotNetPracticals\Practical_3\bin\Debug\Practical_3.pdb
-G:\17CE018\DotNetPracticals\Practical_3\obj\x86\Debug\Practical_3.exe
-G:\17CE018\DotNetPracticals\Practical_3\obj\x86\Debug\Practical_3.pdb

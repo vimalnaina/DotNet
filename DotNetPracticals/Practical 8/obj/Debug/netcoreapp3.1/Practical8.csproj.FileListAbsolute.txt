@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Practicals\Practical8\obj\Debug\netcoreapp3.1\Practical8.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Practicals\Practical8\obj\Debug\netcoreapp3.1\Practical8.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Practicals\Practical8\obj\Debug\netcoreapp3.1\Practical8.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Practicals\Practical8\bin\Debug\netcoreapp3.1\Practical8.exe
+C:\Users\Dell\source\repos\Practicals\Practical8\bin\Debug\netcoreapp3.1\Practical8.deps.json
+C:\Users\Dell\source\repos\Practicals\Practical8\bin\Debug\netcoreapp3.1\Practical8.runtimeconfig.json
+C:\Users\Dell\source\repos\Practicals\Practical8\bin\Debug\netcoreapp3.1\Practical8.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Practicals\Practical8\bin\Debug\netcoreapp3.1\Practical8.dll
+C:\Users\Dell\source\repos\Practicals\Practical8\bin\Debug\netcoreapp3.1\Practical8.pdb
+C:\Users\Dell\source\repos\Practicals\Practical8\obj\Debug\netcoreapp3.1\Practical8.dll
+C:\Users\Dell\source\repos\Practicals\Practical8\obj\Debug\netcoreapp3.1\Practical8.pdb
